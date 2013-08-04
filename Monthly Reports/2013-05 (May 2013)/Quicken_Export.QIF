@@ -1,0 +1,108 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+D5/ 2'13
+U100.00
+T100.00
+CX
+PPotts, Blyden (17257)
+MRef: BlydenPotts_20130502_Check
+LContributions:Individuals:Checks
+^
+D5/14'13
+U18.82
+T18.82
+CX
+PTransfer To Checking
+L[PayPal]
+^
+D5/21'13
+U19.12
+T19.12
+CX
+PTransferto Bank Account
+L[PayPal]
+^
+D5/24'13
+U-20.00
+T-20.00
+CX
+N90000000
+PPotts, Blyden (17257)
+MRefund: PayPal Donation 1/15
+LRefunds:Individuals
+^
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+D5/14'13
+U10.00
+T10.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D5/14'13
+U10.00
+T10.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D5/14'13
+U-1.18
+T-1.18
+CX
+PPayPal, Inc.
+LOperating Expenditures:Bank Fees
+^
+D5/14'13
+U-18.82
+T-18.82
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+D5/21'13
+U-19.12
+T-19.12
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
+D5/19'13
+U10.70
+T10.70
+PMorris, Aaron (15239)
+MQuicken Upgrade
+LContributions:Individuals:In-Kind/In-Kind
+^
+D5/19'13
+U-10.70
+T-10.70
+PIntuit, Inc.
+MQuicken Upgrade
+LOperating Expenditures:Office Expenses
+^

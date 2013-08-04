@@ -1,0 +1,57 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+D6/27'13
+U19.12
+T19.12
+CX
+PTransfer To Checking
+MPPD
+L[PayPal]
+^
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+D6/26'13
+U20.00
+T20.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D6/26'13
+U-0.88
+T-0.88
+CX
+PPayPal, Inc.
+LOperating Expenditures:Bank Fees
+^
+D6/27'13
+U-19.12
+T-19.12
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 

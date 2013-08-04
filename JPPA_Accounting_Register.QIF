@@ -1,0 +1,224 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+D4/12'12
+U50.00
+T50.00
+CX
+PPotts, Blyden (17257)
+MRef: BlydenPotts_20120412_Check
+LContributions:Individuals:Checks
+^
+D10/ 9'12
+U0.15
+T0.15
+CX
+PPayPal, Inc.
+MPayPal Account Verification
+LOperating Expenditures:Bank Fees
+^
+D10/ 9'12
+U0.19
+T0.19
+CX
+PPayPal, Inc.
+MPayPal Account Verification
+LOperating Expenditures:Bank Fees
+^
+D10/ 9'12
+U-0.34
+T-0.34
+CX
+PPayPal, Inc.
+MPayPal Account Verification
+LOperating Expenditures:Bank Fees
+^
+D5/ 2'13
+U100.00
+T100.00
+CX
+PPotts, Blyden (17257)
+MRef: BlydenPotts_20130502_Check
+LContributions:Individuals:Checks
+^
+D5/14'13
+U18.82
+T18.82
+CX
+PTransfer To Checking
+L[PayPal]
+^
+D5/21'13
+U19.12
+T19.12
+CX
+PTransferto Bank Account
+L[PayPal]
+^
+D5/24'13
+U-20.00
+T-20.00
+CX
+N90000000
+PPotts, Blyden (17257)
+MRefund: PayPal Donation 1/15
+LRefunds:Individuals
+^
+D6/27'13
+U19.12
+T19.12
+CX
+PTransfer To Checking
+MPPD
+L[PayPal]
+^
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+D1/ 1'13
+U0.00
+T0.00
+CX
+POpening Balance
+L[PayPal]
+^
+D1/15'13
+U20.00
+T20.00
+CX
+PPotts, Blyden (17257)
+LContributions:Individuals:Website
+^
+D1/15'13
+U-0.88
+T-0.88
+CX
+PPayPal, Inc.
+LOperating Expenditures:Bank Fees
+^
+D5/14'13
+U10.00
+T10.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D5/14'13
+U10.00
+T10.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D5/14'13
+U-1.18
+T-1.18
+CX
+PPayPal, Inc.
+LOperating Expenditures:Bank Fees
+^
+D5/14'13
+U-18.82
+T-18.82
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+D5/21'13
+U-19.12
+T-19.12
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+D6/26'13
+U20.00
+T20.00
+CX
+PMorris, Aaron (15239)
+LContributions:Individuals:Website
+^
+D6/26'13
+U-0.88
+T-0.88
+CX
+PPayPal, Inc.
+LOperating Expenditures:Bank Fees
+^
+D6/27'13
+U-19.12
+T-19.12
+CX
+PTransfer To Checking
+L[Checking (Orrstown)]
+^
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
+D1/ 1'13
+U0.00
+T0.00
+POpening Balance
+L[In-Kind Contributions]
+^
+D4/23'13
+U78.00
+T78.00
+PPotts, Blyden (17257)
+MRef: 20130423_BlydenPotts_Receipt_PostOffice
+LContributions:Individuals:In-Kind/In-Kind
+^
+D4/23'13
+U-78.00
+T-78.00
+PU.S. Post Office
+MPost Office Box Rental
+LOperating Expenditures:Office Expenses
+^
+D5/19'13
+U10.70
+T10.70
+PMorris, Aaron (15239)
+MQuicken Upgrade
+LContributions:Individuals:In-Kind/In-Kind
+^
+D5/19'13
+U-10.70
+T-10.70
+PIntuit, Inc.
+MQuicken Upgrade
+LOperating Expenditures:Office Expenses
+^
+D7/ 1'13
+U20.00
+T20.00
+PMason, Jeff (19403)
+MVoter Registration List
+LContributions:Individuals:In-Kind/In-Kind
+^
+D7/ 1'13
+U-20.00
+T-20.00
+PPennsylvania Bureau of Commissions, Elections and Legislation
+MVoter Registration List
+LOperating Expenditures
+^

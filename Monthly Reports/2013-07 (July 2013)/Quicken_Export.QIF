@@ -1,0 +1,42 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
+D7/ 1'13
+U20.00
+T20.00
+PMason, Jeff (19403)
+MVoter Registration List
+LContributions:Individuals:In-Kind/In-Kind
+^
+D7/ 1'13
+U-20.00
+T-20.00
+PPennsylvania Bureau of Commissions, Elections and Legislation
+MVoter Registration List
+LOperating Expenditures
+^
