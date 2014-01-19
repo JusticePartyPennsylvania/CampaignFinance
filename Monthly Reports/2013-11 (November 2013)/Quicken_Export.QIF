@@ -1,0 +1,31 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
+D11/ 2'13
+U50.00
+T50.00
+PMorris, Aaron (15239)
+MMeeting Space Reservation (Moon Twp)
+LContributions:Individuals:In-Kind/In-Kind
+^
+D11/ 2'13
+U-50.00
+T-50.00
+PMoon Township Public Library
+MMeeting Space Reservation
+LOperating Expenditures
+^

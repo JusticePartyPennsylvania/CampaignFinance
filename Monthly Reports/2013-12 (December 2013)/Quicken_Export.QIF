@@ -1,0 +1,42 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
+D12/ 7'13
+U10.00
+T10.00
+PMorris, Aaron (15239)
+MPrinted Flyers for JP PGH
+LContributions:Individuals:In-Kind/In-Kind
+^
+D12/ 7'13
+U-10.00
+T-10.00
+PMisc.
+MPrinted Flyers for JP PGH
+LAdvertising Expenses
+^
