@@ -30,7 +30,7 @@ T0.15
 CX
 PPayPal, Inc.
 MPayPal Account Verification
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D10/ 9'12
 U0.19
@@ -38,7 +38,7 @@ T0.19
 CX
 PPayPal, Inc.
 MPayPal Account Verification
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D10/ 9'12
 U-0.34
@@ -46,7 +46,7 @@ T-0.34
 CX
 PPayPal, Inc.
 MPayPal Account Verification
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D5/ 2'13
 U100.00
@@ -111,7 +111,7 @@ U-0.88
 T-0.88
 CX
 PPayPal, Inc.
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D5/14'13
 U10.00
@@ -132,7 +132,7 @@ U-1.18
 T-1.18
 CX
 PPayPal, Inc.
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D5/14'13
 U-18.82
@@ -160,7 +160,7 @@ U-0.88
 T-0.88
 CX
 PPayPal, Inc.
-LOperating Expenditures:Bank Fees
+LFederal Operating Expenditures:Bank Fees
 ^
 D6/27'13
 U-19.12
@@ -192,7 +192,7 @@ U-78.00
 T-78.00
 PU.S. Post Office
 MPost Office Box Rental
-LOperating Expenditures:Office Expenses
+LFederal Operating Expenditures:Office Expenses
 ^
 D5/19'13
 U10.70
@@ -206,7 +206,7 @@ U-10.70
 T-10.70
 PIntuit, Inc.
 MQuicken Upgrade
-LOperating Expenditures:Office Expenses
+LFederal Operating Expenditures:Office Expenses
 ^
 D7/ 1'13
 U20.00
@@ -220,7 +220,7 @@ U-20.00
 T-20.00
 PPennsylvania Bureau of Commissions, Elections and Legislation
 MVoter Registration List
-LOperating Expenditures
+LFederal Operating Expenditures
 ^
 D8/22'13
 U20.00
@@ -234,7 +234,7 @@ U-20.00
 T-20.00
 PPennsylvania Bureau of Commissions, Elections and Legislation
 MVoter Registration List
-LOperating Expenditures
+LFederal Operating Expenditures
 ^
 D11/ 2'13
 U50.00
@@ -248,7 +248,7 @@ U-50.00
 T-50.00
 PMoon Township Public Library
 MMeeting Space Reservation
-LOperating Expenditures
+LFederal Operating Expenditures
 ^
 D12/ 7'13
 U10.00
@@ -260,7 +260,84 @@ LContributions:Individuals:In-Kind/In-Kind
 D12/ 7'13
 U-10.00
 T-10.00
-PMisc.
+PStaples Office Supplies
 MPrinted Flyers for JP PGH
-LAdvertising Expenses
+LFederal Operating Expenditures:Advertising Expenses
+^
+D1/ 7'14
+U61.00
+T61.00
+PPotts, Blyden (17257)
+MTwo-year Domain Registrations
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/ 7'14
+U-61.00
+T-61.00
+PGo Daddy, LLC
+MTwo-year Domain Registrations
+LFederal Operating Expenditures
+^
+D1/19'14
+U0.99
+T0.99
+PMorris, Aaron (15239)
+MExcess S/H from T-Shirt order
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/19'14
+U-0.99
+T-0.99
+PVistaprint B.V.
+MExcess S/H from T-Shirt order
+LFederal Operating Expenditures:Advertising Expenses
+^
+D1/20'14
+U36.00
+T36.00
+PMorris, Aaron (15239)
+MMeetup.com Subscription
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/20'14
+U-36.00
+T-36.00
+PMeetup Inc.
+MMeetup.com Subscription
+LFederal Operating Expenditures:Advertising Expenses
+^
+D1/26'14
+U15.50
+T15.50
+PWassermann, Garret (15108)
+MJP PGH T-Shirt
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/26'14
+U15.50
+T15.50
+PPapa, Amanda (15108)
+MJP PGH T-Shirt
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/26'14
+U15.50
+T15.50
+PMorris, Deanna (15239)
+MJP PGH T-Shirt
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/26'14
+U15.50
+T15.50
+PMorris, Aaron (15239)
+MJP PGH T-Shirt
+LContributions:Individuals:In-Kind/In-Kind
+^
+D1/26'14
+U-62.00
+T-62.00
+PVistaprint B.V.
+MJP PGh T-Shirts
+LFederal Operating Expenditures:Advertising Expenses
 ^
