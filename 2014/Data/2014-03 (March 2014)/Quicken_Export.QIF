@@ -1,0 +1,28 @@
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+NPayPal
+TBank
+^
+NIn-Kind Contributions
+TCash
+^
+!Clear:AutoSwitch
+!Option:AutoSwitch
+!Account
+NChecking (Orrstown)
+TBank
+^
+!Type:Bank 
+!Account
+NPayPal
+TBank
+^
+!Type:Bank 
+!Account
+NIn-Kind Contributions
+TCash
+^
+!Type:Cash 
